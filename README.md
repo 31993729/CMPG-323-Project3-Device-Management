@@ -6,10 +6,15 @@ Tried to add it to my already created Project 3 in my overview Repo, but was uns
 when I saw that it was not gonna work, but my original repository that is in the overview Repo if you want to check:
 https://github.com/31993729/CMPG323-Overview-31993729/tree/main/Project%203
 
-## What i did after starting over 
+## What I did after starting over 
 Forked the Repository of JacquiM
 Created dbcontext Scaffolding
 Changed the connection string
 Added GenericRepositories, IGenericRepositoriesa, CategoryRepositories, ICategoryRepositories, DeviceRepositories, IDeviceRepositories, ZoneRepositories, IZoneRepositories
 Changed the Controllers to use GenericRepositories and IGenericRepositories
- 
+
+## How to use
+My link does not work launch the project in Visual Studio to see the code works 
+###Log in with my email and password:
+    Email: Francoiss616@gmail.com
+ Password: Qwerty@123
