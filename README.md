@@ -16,5 +16,5 @@ Changed the Controllers to use GenericRepositories and IGenericRepositories
 ## How to use
 My link does not work launch the project in Visual Studio to see the code works 
 ### Log in with my email and password:
-    Email: Francoiss616@gmail.com
- Password: Qwerty@123
+    Francoiss616@gmail.com
+    Qwerty@123
